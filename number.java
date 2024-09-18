@@ -7,7 +7,7 @@
 
 \f0\fs24 \cf0 \
 let numbers = [2, 4, 8, 3, 21];\
-\
+\ 
 \
 function addNumber(array, number) \{\
     array.push(number);\
